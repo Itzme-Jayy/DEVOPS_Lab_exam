@@ -1,0 +1,6 @@
+Basic instructions for developers:
+1. Donot directly change code in the main branch.
+2. use line spacing accordingly.
+3. use functions for better redabbilty.
+4. before merging into main branch verify the code and check for errors.
+5. write clear and meaningful commit messages.
